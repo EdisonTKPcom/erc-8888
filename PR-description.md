@@ -49,7 +49,7 @@ assets/erc-8888/ERC8888Registry.sol       ← Reference implementation
 
 ## Author
 
-Edison Tan Khai Ping ([@EdisonTKPcom](https://github.com/EdisonTKPcom)) — <edison@techvisory.io>
+Edison Tan Khai Ping ([@EdisonTKPcom](https://github.com/EdisonTKPcom)) — <im@edisontkp.com>
 
 ---
 

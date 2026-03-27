@@ -20,7 +20,7 @@ import { IERC165 }  from "@openzeppelin/contracts/utils/introspection/IERC165.so
  *           - No forced `Vulnerable` override by a guardian (add AccessControl if needed).
  *           - No pagination for enumeration (add an off-chain indexer or subgraph).
  *
- * @author Edison Tan Khai Ping <edison@techvisory.io> — ERC-8888
+ * @author Edison Tan Khai Ping <im@edisontkp.com> — ERC-8888
  */
 contract ERC8888Registry is IERC8888, IERC165 {
 
